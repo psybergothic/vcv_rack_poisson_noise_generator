@@ -1,0 +1,23 @@
+{
+  "slug": "PoissonNoise",
+  "name": "Poisson Noise",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Ogle",
+  "author": "Alexander Ogle",
+  "authorEmail": "alexander.ogle@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "PoissonNoise",
+      "name": "Poisson Noise",
+      "description": "Shot-noise generator: impulses with Poisson-distributed timing",
+      "tags": ["Noise", "Random"]
+    }
+  ]
+}
