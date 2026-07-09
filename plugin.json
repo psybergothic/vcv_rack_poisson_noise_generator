@@ -6,12 +6,10 @@
   "brand": "Ogle",
   "author": "Alexander Ogle",
   "authorEmail": "alexander.ogle@gmail.com",
-  "authorUrl": "",
-  "pluginUrl": "",
-  "manualUrl": "",
-  "sourceUrl": "",
-  "donateUrl": "",
-  "changelogUrl": "",
+  "authorUrl": "https://github.com/psybergothic",
+  "pluginUrl": "https://github.com/psybergothic/vcv_rack_poisson_noise_generator",
+  "manualUrl": "https://github.com/psybergothic/vcv_rack_poisson_noise_generator#readme",
+  "sourceUrl": "https://github.com/psybergothic/vcv_rack_poisson_noise_generator",
   "modules": [
     {
       "slug": "PoissonNoise",
